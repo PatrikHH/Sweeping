@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Project Path="Sweeping.API/Sweeping.API.csproj" />
+  <Project Path="Sweeping.Domain/Sweeping.Domain.csproj" />
+  <Project Path="Sweeping.WPF/Sweeping.WPF.csproj" />
+</Solution>
